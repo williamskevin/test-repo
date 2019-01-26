@@ -1,0 +1,11 @@
+this is a example 
+
+using git 
+
+i uploaded this file to github and configured my git with username and password
+
+push to a repo i made in github using the link to the repo
+
+now i made changes on github 
+
+and will have to fetch it to git 
