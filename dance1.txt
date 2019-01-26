@@ -9,3 +9,6 @@ push to a repo i made in github using the link to the repo
 now i made changes on github 
 
 and will have to fetch it to git 
+
+
+**** this line was added using the nano command in terminal
