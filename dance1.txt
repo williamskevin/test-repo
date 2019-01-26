@@ -10,5 +10,5 @@ now i made changes on github
 
 and will have to fetch it to git 
 
-
+this line is from the terminal ~!!!!!!
 **** this line was added using the nano command in terminal
